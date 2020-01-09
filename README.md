@@ -1,4 +1,4 @@
-# dl_projects
+# Toy Projects using Deep Learining Framework
 Hello Friends
 
 I want to show you a quick implementation of tensorflow library for MNIST dataset. I haven't use any tf.contrib (i.e tf.estimator, tf.keras, tf.layers etc)
